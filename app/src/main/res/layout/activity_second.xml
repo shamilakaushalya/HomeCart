@@ -24,7 +24,7 @@
         android:layout_alignParentEnd="true"
         android:layout_alignParentBottom="true"
         android:layout_marginEnd="49dp"
-        android:layout_marginBottom="496dp"
+        android:layout_marginBottom="494dp"
         android:text="@string/txSecond1"
         android:textAlignment="center"
         android:textColor="#1D309A"
@@ -86,8 +86,8 @@
         android:layout_height="wrap_content"
         android:layout_alignParentEnd="true"
         android:layout_alignParentBottom="true"
-        android:layout_marginEnd="272dp"
-        android:layout_marginBottom="114dp"
+        android:layout_marginEnd="261dp"
+        android:layout_marginBottom="109dp"
         android:background="@drawable/button_round"
         android:text="@string/Secondbtn1"
         android:textAlignment="center"
@@ -95,8 +95,7 @@
         android:textSize="18sp"
         android:textStyle="bold|italic"
         app:layout_constraintHorizontal_bias="0.5"
-        app:layout_constraintStart_toStartOf="parent"
-        />
+        app:layout_constraintStart_toStartOf="parent" />
 
     <Button
         android:id="@+id/Secondbtn2"
@@ -104,15 +103,15 @@
         android:layout_height="wrap_content"
         android:layout_alignParentEnd="true"
         android:layout_alignParentBottom="true"
-        android:layout_marginEnd="91dp"
-        android:layout_marginBottom="114dp"
-        android:text="@string/Secondbtn2"
+        android:layout_marginEnd="79dp"
+        android:layout_marginBottom="107dp"
         android:background="@drawable/button_round"
+        android:text="@string/Secondbtn2"
         android:textAlignment="center"
         android:textColor="#FFFFFF"
         android:textSize="18sp"
         android:textStyle="bold|italic"
         app:layout_constraintHorizontal_bias="0.5"
-        app:layout_constraintStart_toStartOf="parent"/>
+        app:layout_constraintStart_toStartOf="parent" />
 
 </RelativeLayout>
